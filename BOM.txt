@@ -1,0 +1,157 @@
+     1    1  ........0311026001         RC1206FR-07 100RL                        SM   NA   RES SMD 1/4W 100ohm F 1206               CW    0 %          4.000  PCE            R129, R130, R131, R132
+     2    1  ........0311026001         RC1206FR-07 100RL                        SM   NA   RES SMD 1/4W 100ohm F 1206               CV    0 %          1.000  PCE R18
+     3    1  ........0311026015         1206W4F1000T5E                           TM48 NA   RES SMD 1/4W 100ohm F 1206               CW   100%          4.000  PCE            R129, R130, R131, R132
+     4    1  ........0311026015         1206W4F1000T5E                           TM48 NA   RES SMD 1/4W 100ohm F 1206               CV   100%          1.000  PCE R18
+     5    1  ........0311041001         RC1206FR-07 1KL                          SM   NA   RES SMD 1/4W 1Kohm F 1206                CQ    0 %          1.000  PCE R89
+     6    1  ........0311041015         1206W4F1001T5E                           TM48 NA   RES SMD 1/4W 1Kohm F 1206                CQ   100%          1.000  PCE R89
+     7    1  ........0311055001         RC1206FR-07 6K8L                         TM   NA   RES SMD 1/4W 6.8Kohm F 1206              CU    0 %          1.000  PCE R64
+     8    1  ........0311055015         1206W4F6801T5E                           TM48 NA   RES SMD 1/4W 6.8Kohm F 1206              CU   100%          1.000  PCE R64
+     9    1  ........0311088001         RC1206FR-07 120KL                        TM   NA   RES SMD 1/4W 120Kohm F 1206              CX    0 %          1.000  PCE R9
+    10    1  ........0311088015         1206W4F1203T5E                           TM   NA   RES SMD 1/4W 120Kohm F 1206              CX   100%          1.000  PCE R9
+    11    1  ........0311108001         RC1206FR-07 1ML                          TM   NA   RES SMD 1/4W 1Mohm F 1206                CR    0 %          7.000  PCE            R3, R4, R7, R8, R16, R17, R52
+    12    1  ........0311108015         1206W4F1004T5E                           TM48 NA   RES SMD 1/4W 1Mohm F 1206                CR   100%          7.000  PCE            R3, R4, R7, R8, R16, R17, R52
+    13    1  ........0311422001         RC1206FR-07 390KL                        TM   NA   RES SMD 1/4W 390Kohm F 1206              CY    0 %          3.000  PCE            R10, R11, R12
+    14    1  ........0311422015         1206W4F3903T5E                           TM48 NA   RES SMD 1/4W 390Kohm F 1206              CY   100%          3.000  PCE            R10, R11, R12
+    15    1  ........0311588001         RC1206FR-07 2K2L                         TM   NA   RES SMD 1/4W 2.2Kohm F 1206              CT    0 %          1.000  PCE R42
+    16    1  ........0311588015         1206W4F2201T5E                           TS   NA   RES SMD 1/4W 2.2Kohm F 1206              CT   100%          1.000  PCE R42
+    17    1  ........0311879006         RM12FTN1334                              TM   NA   RES SMD 1/4W 1.33Mohm F 1206             CS   100%          5.000  PCE            R41, R43, R46, R47, R51
+    18    1  ........0311879015         1206W4F1334T5E                           TM   NA   RES SMD 1/4W 1.33Mohm F 1206             CS    0 %          5.000  PCE            R41, R43, R46, R47, R51
+    19    1  ........0313000001         RC1206JR-07 0RL                          SM   NA   RES SMD 1/4W 0ohm J 1206                 CP    0 %          1.000  PCE R70
+    20    1  ........0313000015         1206W4J0000T5E                           SM   NA   RES SMD 1/4W 0ohm J 1206                 CP   100%          1.000  PCE R70
+    21    1  ........0341012301         RC0603FR-07 10RL                         TM   NA   RES SMD 1/10W 10ohm F 0603               BT    0 %          1.000  PCE R93
+    22    1  ........0341012315         0603WAF100JT5E                           SM   NA   RES SMD 1/10W 10ohm F 0603               BT   100%          1.000  PCE R93
+    23    1  ........0341026301         RC0603FR-07 100RL                        SM   NA   RES SMD 1/10W 100ohm F 0603              CB    0 %          1.000  PCE R37
+    24    1  ........0341026315         0603WAF1000T5E                           SM   NA   RES SMD 1/10W 100ohm F 0603              CB   100%          1.000  PCE R37
+    25    1  ........0341029301         RC0603FR-07 180RL                        TM   NA   RES SMD 1/10W 180ohm F 0603              CE    0 %          1.000  PCE R85
+    26    1  ........0341029315         0603WAF1800T5E                           TS   NA   RES SMD 1/10W 180ohm F 0603              CE   100%          1.000  PCE R85
+    27    1  ........0341031301         RC0603FR-07 220RL                        TM   NA   RES SMD 1/10W 220ohm F 0603              CG    0 %          3.000  PCE            BLANK                                    R33, R73, R110
+    28    1  ........0341031315         0603WAF2200T5E                           TM46 NA   RES SMD 1/10W 220ohm F 0603              CG   100%          3.000  PCE            R33, R73, R110
+    29    1  ........0341032300         Reference QVL                            SM   NA   RES SMD 1/10W 270ohm F 0603                                 1.000  PCE R68
+    30    1  ........0341034301         RC0603FR-07 330RL                        SM   NA   RES SMD 1/10W 330ohm F 0603              CI    0 %          4.000  PCE            R102, R103, R104, R105
+    31    1  ........0341034315         0603WAF3300T5E                           TM46 NA   RES SMD 1/10W 330ohm F 0603              CI   100%          4.000  PCE            R102, R103, R104, R105
+    32    1  ........0341036301         RC0603FR-07 470RL                        SM   NA   RES SMD 1/10W 470ohm F 0603              CJ    0 %          1.000  PCE R53
+    33    1  ........0341036303         RK73H1JTTD4700F                          TD   NA   RES SMD 1/8W 470ohm F 0603               CJ    0 %          1.000  PCE R53
+    34    1  ........0341036315         0603WAF4700T5E                           TM46 NA   RES SMD 1/10W 470ohm F 0603              CJ   100%          1.000  PCE R53
+    35    1  ........0341040301         RC0603FR-07 820RL                        TS   NA   RES SMD 1/10W 820ohm F 0603              CL    0 %          1.000  PCE R55
+    36    1  ........0341040301         RC0603FR-07 820RL                        TS   NA   RES SMD 1/10W 820ohm F 0603              UD    0 %          1.000  PCE R67
+    37    1  ........0341040315         0603WAF8200T5E                           TM46 NA   RES SMD 1/10W 820ohm F 0603              CL   100%          1.000  PCE R55
+    38    1  ........0341040315         0603WAF8200T5E                           TM46 NA   RES SMD 1/10W 820ohm F 0603              UD   100%          1.000  PCE R67
+    39    1  ........0341041301         RC0603FR-07 1KL                          SM   NA   RES SMD 1/10W 1Kohm F 0603               BM    0 %          7.000  PCE            R25, R26, R58, R61, R94, R109, R126
+    40    1  ........0341041315         0603WAF1001T5E                           SM   NA   RES SMD 1/10W 1Kohm F 0603               BM   100%          7.000  PCE            R25, R26, R58, R61, R94, R109, R126
+    41    1  ........0341047301         RC0603FR-07 2K7L                         SM   NA   RES SMD 1/10W 2.7Kohm F 0603             BP    0 %          1.000  PCE R84
+    42    1  ........0341047315         0603WAF2701T5E                           TM46 NA   RES SMD 1/10W 2.7Kohm F 0603             BP   100%          1.000  PCE R84
+    43    1  ........0341052301         RC0603FR-07 4K7L                         TM   NA   RES SMD 1/10W 4.7Kohm F 0603             BQ    0 %          6.000  PCE            R74, R97, R100, R108, R112, R113
+    44    1  ........0341052315         0603WAF4701T5E                           TM46 NA   RES SMD 1/10W 4.7Kohm F 0603             BQ   100%          6.000  PCE            R74, R97, R100, R108, R112, R113
+    45    1  ........0341059301         RC0603FR-07 10KL                         SM   NA   RES SMD 1/10W 10Kohm F 0603              BR    0 %          3.000  PCE            R28, R114, R116
+    46    1  ........0341059315         0603WAF1002T5E                           TM46 NA   RES SMD 1/10W 10Kohm F 0603              BR   100%          3.000  PCE            R28, R114, R116
+    47    1  ........0341065301         RC0603FR-07 18KL                         TM   NA   RES SMD 1/10W 18Kohm F 0603              BU    0 %          1.000  PCE R121
+    48    1  ........0341065315         0603WAF1802T5E                           TM46 NA   RES SMD 1/10W 18Kohm F 0603              BU   100%          1.000  PCE R121
+    49    1  ........0341066300         Reference QVL                            SM   NA   RES SMD 1/10W 20Kohm F 0603                                 1.000  PCE R80
+    50    1  ........0341067301         RC0603FR-07 22KL                         SM   NA   RES SMD 1/10W 22Kohm F 0603              BV    0 %          1.000  PCE R21
+    51    1  ........0341067315         0603WAF2202T5E                           TM48 NA   RES SMD 1/10W 22Kohm F 0603              BV   100%          1.000  PCE R21
+    52    1  ........0341071301         RC0603FR-07 33KL                         TM   NA   RES SMD 1/10W 33Kohm F 0603              BW    0 %          1.000  PCE R76
+    53    1  ........0341071315         0603WAF3302T5E                           TM46 NA   RES SMD 1/10W 33Kohm F 0603              BW   100%          1.000  PCE R76
+    54    1  ........0341077301         RC0603FR-07 47KL                         TM   NA   RES SMD 1/10W 47Kohm F 0603              BX    0 %          5.000  PCE            R57, R90, R91, R92, R99
+    55    1  ........0341077301         RC0603FR-07 47KL                         TM   NA   RES SMD 1/10W 47Kohm F 0603              BX    0 %          1.000  PCE R86
+    56    1  ........0341077315         0603WAF4702T5E                           TM46 NA   RES SMD 1/10W 47Kohm F 0603              BX   100%          5.000  PCE            R57, R90, R91, R92, R99
+    57    1  ........0341077315         0603WAF4702T5E                           TM46 NA   RES SMD 1/10W 47Kohm F 0603              BX   100%          1.000  PCE R86
+    58    1  ........0341080300         Reference QVL                            TM   NA   RES SMD 1/10W 56Kohm F 0603                                 3.000  PCE            R31,R79,R81
+    59    1  ........0341087301         RC0603FR-07 100KL                        TM   NA   RES SMD 1/10W 100Kohm F 0603             CA    0 %          2.000  PCE R22, R24
+    60    1  ........0341087315         0603WAF1003T5E                           TM46 NA   RES SMD 1/10W 100Kohm F 0603             CA   100%          2.000  PCE R22, R24
+    61    1  ........0341102301         RC0603FR-07 330KL                        TM   NA   RES SMD 1/10W 330Kohm F 0603             CH    0 %          1.000  PCE R56
+    62    1  ........0341102315         0603WAF3303T5E                           TM46 NA   RES SMD 1/10W 330Kohm F 0603             CH   100%          1.000  PCE R56
+    63    1  ........0341108301         RC0603FR-07 1ML                          TM   NA   RES SMD 1/10W 1Mohm F 0603               BN    0 %          1.000  PCE R34
+    64    1  ........0341108315         0603WAF1004T5E                           TM48 NA   RES SMD 1/10W 1Mohm F 0603               BN   100%          1.000  PCE R34
+    65    1  ........0341113300         Reference QVL                            SM   NA   RES SMD 1/10W 2Kohm F 0603                                  2.000  PCE R77,R78
+    66    1  ........0341426301         RC0603FR-07 220KL                        TM   NA   RES SMD 1/10W 220Kohm F 0603             CF    0 %          3.000  PCE            R20, R54, R75
+    67    1  ........0341426315         0603WAF2203T5E                           TM48 NA   RES SMD 1/10W 220Kohm F 0603             CF   100%          3.000  PCE            R20, R54, R75
+    68    1  ........0341539101         RC0805FR-07 2RL                          SM   NA   RES SMD 1/8W 2ohm F 0805                 CN    0 %          4.000  PCE            R29, R30, R117, R119
+    69    1  ........0341539115         0805W8F200KT5E                           TM48 NA   RES SMD 1/8W 2ohm F 0805                 CN   100%          4.000  PCE            R29, R30, R117, R119
+    70    1  ........0341588300         Reference QVL                            TM   NA   RES SMD 1/10W 2.2Kohm F 0603                                8.000  PCE            R66,R69,R72,R83,R87,R88,R101,R106
+    71    1  ........0341737301         RC0603FR-07 680KL                        TM   NA   RES SMD 1/10W 680Kohm F 0603             CK    0 %          1.000  PCE R38
+    72    1  ........0341737315         0603WAF6803T5E                           TM   NA   RES SMD 1/10W 680Kohm F 0603             CK   100%          1.000  PCE R38
+    73    1  ........0341919115         0805W8F360KT5E                           T_   NA   RES SMD 1/8W 3.6ohm F 0805                                  4.000  PCE            R32, R120, R27, R118
+    74    1  ........0343000101         RC0805JR-07 0RL                          SM   NA   RES SMD 1/8W 0ohm J 0805                 CM    0 %          1.000  PCE R23
+    75    1  ........0343000115         0805W8J0000T5E                           S_   NA   RES SMD 1/8W 0ohm J 0805                 CM   100%          1.000  PCE R23
+    76    1  ........0343000301         RC0603JR-07 0RL                          SM   NA   RES SMD 1/10W 0ohm J 0603                BK    0 %          2.000  PCE R96, R115
+    77    1  ........0343000315         0603WAJ0000T5E                           SM   NA   RES SMD 1/10W 0ohm J 0603                BK   100%          2.000  PCE R96, R115
+    78    1  ........0346059301         RT0603BRE07 10KL                         TM   NA   RES SMD 1/10W 10Kohm B 0603              BS   100%          1.000  PCE R98
+    79    1  ........0346059303         RN73H1JTTD1002B50                        TM   NA   RES SMD 1/10W 10Kohm B 0603              BS    0 %          1.000  PCE R98
+    80    1  ........0346157300         RT0603BRE07 110KL                        R_   NA   RES SMD 1/10W 110Kohm B 0603             ND    0 %          1.000  PCE R95
+    81    1  ........0346157332         WF06Q1103BTL                             TM   NA   RES SMD 1/10W 110Kohm B 0603             ND   100%          1.000  PCE R95
+    82    1  ........0461041004         SMM02040C1001FB300                       TM   NA   RES MF 1/4W 1 Kohm F MELF 1.4*3.6                           2.000  PCE R62, R63
+    83    1  ........0471110004         SMM02070C4708FBP00                       T_   NA   RES MF 1W 4.7ohm F MELF 2.2*5.8          9Z   100%          5.000  PCE            R39, R40, R48, R49, R50
+    84    1  ........0472028404         CMB02070X1500GB200                       T_   NA   RES MF PULSE 1W 150ohm G MELF 2.2*5.8                       2.000  PCE R44, R45
+    85    1  ........04D1110004         MMB02070C4708FB200                       TM   NA   RES MF 0.4W 4.7ohm F MELF 2.2*5.8        9Z    0 %          5.000  PCE            R39, R40, R48, R49, R50
+    86    1  ........0867011502         0501015.WR                               T_   1    FUSE F 15A 32VDC SMD 1206                                   1.000  PCE F2A1
+    87    1  ........1512446004         GRM188R71H222KA01D                       SM   NA   NRND CAP MC SMD 50V 2200pF K X7R 0603    BC   100%          2.000  PCE C12, C13
+    88    1  ........1512446032         0603B222K500CT                           SR   NA   CAP MC SMD 50V 2200PF K X7R 0603 0.8     BC    0 %          2.000  PCE C12, C13
+    89    1  ........1512454004         GRM188R71H103KA01D                       SM   NA   NRND CAP MC SMD 50V 0.01uF K X7R 0603    BD   100%          5.000  PCE            C10, C33, C59, C36, C39
+    90    1  ........1512454032         0603B103K500CT                           SR   NA   CAP MC SMD 50V 0.01UF K X7R 0603 0.8     BD    0 %          5.000  PCE            C10, C33, C59, C36, C39
+    91    1  ........1512458004         GRM188R71H104KA93D                       SM   NA   NRND CAP MC SMD 50V 0.1uF K X7R 0603 0.8 BG   100%         15.000  PCE            C51, C52, C53, C56, C58, C38, C17, C18,  C24, C42, C44, C45, C47, C49, C55
+    92    1  ........1512458032         0603B104K500CT                           SR   NA   CAP MC SMD 50V 0.1uF K X7R 0603 0.8      BG    0 %         15.000  PCE            C51, C52, C53, C56, C58, C38, C17, C18,  C24, C42, C44, C45, C47, C49, C55
+    93    1  ........1512482104         GRM21BR71H683KA01L                       TM   NA   NRND CAP MC SMD 50V 0.068uF K X7R 0805   BF   100%          1.000  PCE C7
+    94    1  ........1512482132         0805B683K500CT                           TR   NA   CAP MC SMD 50V 0.068uF K X7R 0805 0.8    BF    0 %          1.000  PCE C7
+    95    1  ........1521538004         GRM1885C2A221JA01D                       T_   NA   NRND CAP MC SMD 100V 220PF J C0G 0603    BJ   100%          1.000  PCE C14
+    96    1  ........1521538032         0603N221J101CT                           TR   NA   CAP MC SMD 100V 220PF J C0G 0603 0.8     BJ    0 %          1.000  PCE C14
+    97    1  ........1522445003         C1608X7R2A102KT                          TS   NA   CAP MC SMD 100V 1000PF K X7R 0603 0.8    BA    0 %          4.000  PCE            C19, C20, C37, C40
+    98    1  ........1522445004         GRM188R72A102KA01D                       TM   NA   NRND CAP MC SMD 100V 1000PF K X7R 0603   BA   100%          4.000  PCE            C19, C20, C37, C40
+    99    1  ........1522445032         0603B102K101CT                           TR   NA   CAP MC SMD 100V 1000PF K X7R 0603 0.8    BA    0 %          4.000  PCE            C19, C20, C37, C40
+   100    1  ........1522458204         GRM319R72A104KA01D                       TM   NA   NRND CAP MC SMD 100V 0.1uF K X7R 1206    BH   100%          3.000  PCE            C25, C28, C29
+   101    1  ........1522458232         1206B104K101CT                           TS   NA   CAP MC SMD 100V 0.1uF K X7R 1206 1.25    BH    0 %          3.000  PCE            C25, C28, C29
+   102    1  ........1531540200         Reference QVL                            T_   NA   CAP MC SMD 200V 330pF J C0G 1206 0.6     SX    0 %          2.000  PCE C60,C61
+   103    1  ........1531540203         C3216C0G2D331JT                          TS   NA   NRND CAP MC SMD 200V 330pF J C0G 1206    SX   100%          2.000  PCE C60, C61
+   104    1  ........1531540209         C1206C331J2GAC                           TR   NA   CAP MC SMD 200V 330pF J C0G 1206 1.5     SX    0 %          2.000  PCE C60, C61
+   105    1  ........1542491204         GRM31CR71C106KA12L                       TM   NA   NRND CAP MC SMD 16V 10uF K X7R 1206 1.6  BE   100%          2.000  PCE C46, C48
+   106    1  ........1542491232         1206B106K160CT                           TR   NA   CAP MC SMD 16V 10uF K X7R 1206 1.6       BE    0 %          2.000  PCE C46, C48
+   107    1  ........1552459004         GRM188R71E224KA88D                       TM   NA   CAP MC SMD 25V 0.22uF K X7R 0603 0.8     BI   100%          1.000  PCE C31
+   108    1  ........1552459032         0603B224K250CT                           SS   NA   CAP MC SMD 25V 0.22UF K X7R 0603 0.8     BI    0 %          1.000  PCE C31
+   109    1  ........1552460104         GRM21BR71E684KA88L                       TS   NA   NRND CAP MC SMD 25V 0.68uF K X7R 0805    BL   100%          2.000  PCE C8, C9
+   110    1  ........1552460132         0805B684K250CT                           T_   NA   CAP MC SMD 25V 0.68uF K X7R 0805 1.25    BL    0 %          2.000  PCE C8, C9
+   111    1  ........1552467104         GRM21BR71E105KA99L                       SM   NA   NRND CAP MC SMD 25V 1uF K X7R 0805 1.25  BB   100%          2.000  PCE C11, C21
+   112    1  ........1552467132         0805B105K250CT                           SR   NA   CAP MC SMD 25V 1uF K X7R 0805 1.25       BB    0 %          2.000  PCE C11, C21
+   113    1  ........15A2467004         GRM188R71A105KA61D                       TS   NA   NRND CAP MC SMD 10V 1uF K X7R 0603 0.8   UC   100%          1.000  PCE C41
+   114    1  ........15A2467032         0603B105K100CT                           TS   NA   CAP MC SMD 10V 1UF K X7R 0603 0.8        UC    0 %          1.000  PCE C41
+   115    1  ........201820570731       US1D-E3/61T                              TM   1    DIO FRD 1A 200V DO-214AC-2P 50nS SMD     DH    0 %          3.000  PCE            V10, V16, V24
+   116    1  ........201820570739       US1D-13-F                                TM   1    DIO FRD 1A 200V SMA-2P 50nS SMD          DH   100%          3.000  PCE            V10, V16, V24
+   117    1  ........201830610208       STTH1L06U                                TR   1    DIO FRD 1A 600V SMB-2P 80nS SMD                             2.000  PCE V13, V14
+   118    1  ........202780080035       BAS40-07W                                T_   1    DIO SBD 120mA 40V SOT-343-4P 2D SMD                         1.000  PCE V6
+   119    1  ........203812510036       RLZTE-112.0A                             T_   1    EOL DIO ZEN 0.5W 1.88-2.1V LLDS-2P SMD   DD    0 %          1.000  PCE V34
+   120    1  ........203851720039       BZT52C2V0-7-F                            TM   1    DIO ZEN 0.5W 1.91-2.09V SOD-123-2P SMD   DD   100%          1.000  PCE V34
+   121    1  ........203852520105       MMSZ5226BT1G                             TM   1    DIO ZEN 0.5W 3.14-3.47V SOD-123-2P SMD   DG    0 %          2.000  PCE V42,V43
+   122    1  ........203852520134       MMSZ5226B                                TM   1    DIO ZEN 0.5W 3.3V 3.14-3.47V SOD-123-2P  DG    0 %          2.000  PCE V42,V43
+   123    1  ........203852520139       MMSZ5226B-7-F                            T_   1    DIO ZEN 0.5W 3.14-3.47V SOD-123-2P SMD   DG   100%          2.000  PCE V42,V43
+   124    1  ........203852620031       MMSZ5243B-E3-08                          R_   1    DIO ZEN 0.5W 13V 12.35-13.65V SOD-123-2P DX    0 %          1.000  PCE V40
+   125    1  ........203852620039       MMSZ5243B-7-F                            TS   1    DIO ZEN 0.5W 12.35-13.65V SOD-123-2P SMD DX   100%          1.000  PCE V40
+   126    1  ........204522000005       BAS21LT1G                                T_   1    DIO SW 200mA 250V SOT-23-3P SMD          JU   100%          7.000  PCE            V15, V18, V21, V23, V26, V27, V41
+   127    1  ........204522000031       BAS21-E3-08                              TM   1    DIO SW 200mA 250V SOT-23-3P SMD          JU    0 %          7.000  PCE            V15, V18, V21, V23, V26, V27, V41
+   128    1  ........204522000035       BAS21                                    TM   1    EOL DIO SW 250mA 250V SOT-23-3P SMD      JU    0 %          7.000  PCE            V15, V18, V21, V23, V26, V27, V41
+   129    1  ........204522000039       BAS21-7-F                                TM   1    DIO SW 200mA 250V SOT-23-3P SMD          JU    0 %          7.000  PCE            V15, V18, V21, V23, V26, V27, V41
+   130    1  ........205820630017       S1M                                      TM   1    DIO SI 1A 1KV SMA-2P SMD                 DE    0 %          2.000  PCE V11, V12
+   131    1  ........205820630021       S1M                                      T_   1    DIO SI 1A 1KV SMA-2P SMD                 DE   100%          2.000  PCE V11, V12
+   132    1  ........210522000807       BC847B                                   TS   1    TR 45V 100mA SOT-23-3P 200-450 SMD       DC   100%          1.000  PCE V5
+   133    1  ........210522000817       BC847B                                   TM4C 1    EOL TR 45V 100mA SOT-23-3P 200-450 SMD   DC    0 %          1.000  PCE V5
+   134    1  ........210522000835       BC847B                                   TM   1    EOL TR 45V 100mA SOT-23-3P 200-450 SMD   DC    0 %          1.000  PCE V5
+   135    1  ........210522001105       BC817-40LT1G                             S_   1    TR 45V 0.5A SOT-23-3P 250-600 SMD 0.225W DB    0 %          2.000  PCE V30, V31
+   136    1  ........210522001107       BC817-40                                 TS   1    TR 45V 500mA SOT-23-3P 250-600 SMD       DB   100%          2.000  PCE V30, V31
+   137    1  ........211522000807       BC807-40                                 TS   1    TR -45V -500mA SOT-23-3P 250-600 SMD     DA    0 %          2.000  PCE V20, V32
+   138    1  ........211522000817       BC807-40                                 TM   1    EOL TR -45V -0.8A SOT-23-3P 250-630 SMD  DA    0 %          2.000  PCE V20, V32
+   139    1  ........211522000839       BC807-40-7-F                             TM   1    TR -45V -500mA SOT-23-3P 250-600 SMD     DA   100%          2.000  PCE V20, V32
+   140    1  ........242522000117       BSS138                                   T_   1    FET 50V 0.22A 3.5ohm LL SOT-23-3P SMD    D9   100%          1.000  PCE V25
+   141    1  ........242522000134       BSS138                                   R_   1    FET SS 50V 0.3A 3ohm LL SOT-23-3P SMD    D9    0 %          1.000  PCE V25        BLANK
+   142    1  ........2500108510         L78L33ABUTR                              TR   1    IC REGU 3.3V 100mA 5% SOT-89-3P SMD                         1.000  PCE V29
+   143    1  ........2500267214         REF3030AIDBZR                            TS   1    IC VOL REF 3V 25mA 0.2% SOT-23-3P SMD                       1.000  PCE V44
+   144    1  ........2500310513         TLV431BSN1T1G                            TM   1    IC VOL REF ADJ 1.24V 20mA 0.5% SOT-23-3P                    1.000  PCE V22
+   145    1  ........2510593710         L6563STR                                 TM   3    IC PWM PFC SOIC-14P SMD                                     1.000  PCE U1
+   146    1  ........2520261313         NCS2333DR2G                              TM   1    IC OP AMP DUAL RAIL-TO-RAIL SOIC-8P SMD                     1.000  PCE N1
+   147    1  ........2610517137         24LC64T-I/SN                             TM   1    IC EEPROM 8K*8 5mS SOIC-8P SMD           QW   100%          1.000  PCE D3
+   148    1  ........2610531111         CAT24C64WI-GT3                           TP   1    IC EEPROM 8K*8 5mS SOIC-8P SMD           QW    0 %          1.000  PCE D3
+   149    1  ........2610894537         PIC18F25K20-I/SO                         T_   1    IC MCU FLASH 32K*8+256*8 SOIC-28P SMD    GG   100%          1.000  PCE D1
+   150    1  ........2611363837         PIC18F27Q10T-I/SO                        T_   1    IC MCU FLASH 128K*8+1K*8 SOIC-28P SMD    GG    0 %          1.000  PCE D1
+   151    1  ........2611363937         PIC18F25Q10T-I/SO                        T_   1    IC MCU FLASH 32K*8+256*8 SOIC-28P SMD    GG    0 %          1.000  PCE D1
+   152    1  ........2611365137         PIC18F26Q10T-I/SO                        T_   1    IC MCU FLASH 64K*8+1024*8 SOIC-28P SMD   GG    0 %          1.000  PCE D1
+   153    1  ........2994054000                                                  TG   NA   PWB D E2 FR-4 189*115*1.6                Q9    0 %          1.000  PCE P.W.B
+   154    1  ........2994055200                                                  TG   NA   PWB D E1 FR-4 189*115*1.6                Q9   100%          1.000  PCE P.W.B
+   155    1  ........4090203200         TLF-204-19A.                             TD   NA   SOLDER PASTE SN96.5/AG3/CU0.5 TYPE4      SP    0 %          0.400  GRM
+   156    1  ........4090207700         SAC305 OM340                             SG   NA   SOLDER PASTE SN96.5/AG3/CU0.5            SP   100%          0.400  GRM
+   157    1  ........X51221000014       BC847BMTF                                X04  1    TR 45V 100mA SOT-23-3P 200-450 SMD       DC    0 %          1.000  PCE V5

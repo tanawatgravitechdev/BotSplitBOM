@@ -1,0 +1,18 @@
+		   1			1  ........		0311059001			RC1206FR-07 10KL						TM	RES SMD 1/4W 10Kohm F 1206							       1.000		PCE	R1
+		   2			1  ........		0311087001			RC1206FR-07 100KL						TM	RES SMD 1/4W 100Kohm F 1206							       2.000		PCE	R7,R10
+		   3			1  ........		0311119001			RC1206FR-07 90K9L						TM	RES SMD 1/4W 90.9Kohm F 1206							       1.000		PCE	R2
+		   4			1  ........		0311318001			RC1206FR-07 30K1L						TM	RES SMD 1/4W 30.1Kohm F 1206							       1.000		PCE	R5
+		   5			1  ........		0311345001			RC1206FR-07 243KL						TM	RES SMD 1/4W 243Kohm F 1206							       1.000		PCE	R8
+		   6			1  ........		0311356001			RC1206FR-07 24K3L						TM	RES SMD 1/4W 24.3Kohm F 1206							       2.000		PCE	R9,R11
+		   7			1  ........		0321298401			RC1210FR-07 2K43L						T_	RES SMD 1/2W 2.43Kohm F 1210							       1.000		PCE	R6
+		   8			1  ........		1030060200			Reference QVL						T_	CAP TA 16V 10uF K SMD TP C 4.7E3							       1.000		PCE	C2
+		   9			1  ........		1030120202			T491C106K035AT						RS	CAP TA 35V 10uF K SMD TP C 4.7							       1.000		PCE	C1
+		  10			1  ........		203521070107			BZX84-C7V5						TS	DIO ZEN 0.25W 7-7.9V SOT-23-3P SMD							       1.000		PCE	D5
+		  11			1  ........		203852670005			MMSZ5248BT1G						SM	DIO ZEN 0.5W 17.1-18.9V SOD-123-2P SMD							       1.000		PCE	D9
+		  12			1  ........		204851000005			MMSD914T1G						TM	DIO SW 200mA 100V SOD-123-2P SMD							       2.000		PCE	D8,D10
+		  13			1  ........		205791630046			S3M						TM	DIO SI 3A 1KV SMC-2P SMD							       4.000		PCE	D1D2D3D4
+		  14			1  ........		205820630046			S1M						TM	DIO SI 1A 1KV SMA-2P 1K<=Trr<=2Kns SMD							       2.000		PCE	D6,D7
+		  15			1  ........		210523000105			BC846BLT1G						T_	TR 65V 100mA SOT-23-3P 200-450 SMD							       3.000		PCE	Q1,Q2,Q3
+		  16			1  ........		2994038900									TR	PWB D E2 FR-4 58.04*38.35*1.6							       1.000		PCE	PCB
+		  17			1  ........		4020190600			NE8800T						TD	ADHESIVE EPOXY SMT NE8800T RED							       0.200		GRM
+		  18			1  ........		4090203200			TLF-204-19A.						TD	SOLDER PASTE SAC305 TYPE4 TLF-204-19A.							       0.200		GRM

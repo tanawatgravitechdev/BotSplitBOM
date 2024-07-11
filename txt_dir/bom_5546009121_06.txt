@@ -1,0 +1,37 @@
+     1    1  ........0313102015         1206W4J0102T5E                           SM   NA   RES SMD 1/4W 1Kohm J 1206                                   1.000  PCE R17
+     2    1  ........0313331015         1206W4J0331T5E                           TM48 NA   RES SMD 1/4W 330ohm J 1206                                  1.000  PCE R18
+     3    1  ........0343100315         0603WAJ0100T5E                           TM46 NA   RES SMD 1/10W 10ohm J 0603                                  1.000  PCE R19
+     4    1  ........0343101315         0603WAJ0101T5E                           TM46 NA   RES SMD 1/10W 100ohm J 0603                                 1.000  PCE R21
+     5    1  ........0343102315         0603WAJ0102T5E                           TM46 NA   RES SMD 1/10W 1Kohm J 0603                                  6.000  PCE            R6,R11,R13,R14,R15,R16
+     6    1  ........0343103315         0603WAJ0103T5E                           SM   NA   RES SMD 1/10W 10Kohm J 0603                                 1.000  PCE R5
+     7    1  ........0343471315         0603WAJ0471T5E                           TM46 NA   RES SMD 1/10W 470ohm J 0603                                 1.000  PCE R12
+     8    1  ........0343472315         0603WAJ0472T5E                           TM46 NA   RES SMD 1/10W 4.7Kohm J 0603                                4.000  PCE            R7,R8,R9,R10
+     9    1  ........0399604115         0805WAB1203T5E                           TS   NA   RES SMD 1/10W 120Kohm B 0805                                1.000  PCE R1
+    10    1  ........0399701415         0603SAB1002T5E                           TS   NA   RES SMD 1/10W 10Kohm B 0603                                 1.000  PCE R4
+    11    1  ........0399701515         0603SAB2002T5E                           TS   NA   RES SMD 1/10W 20Kohm B 0603                                 1.000  PCE R3
+    12    1  ........0399701615         0603SAB2402T5E                           TS   NA   RES SMD 1/10W 24Kohm B 0603                                 1.000  PCE R2
+    13    1  ........0730233124         FA-365 16MHZ                             TS   NA   CRYSTAL 16MHz +/-100PPM 15pF SMD-2P      B3    0 %          1.000  PCE Q1         BLANK
+    14    1  ........0730233351         ECS-160-20-23A                           TS   NA   CRYSTAL 16MHz +/-30PPM 20pF SMD-4P 6*3.5 B3   100%          1.000  PCE Q1
+    15    1  ........0731047451         ECS-160-20-23A-EN-TR                     TS   NA   CRYSTAL 16MHz +/-50PPM PPM 20pF SMD-4P   B3    0 %          1.000  PCE Q1
+    16    1  ........1511510004         GRM1885C1H150JA01D                       TM   NA   NRND CAP MC SMD 50V 15PF J C0G 0603 0.8                     2.000  PCE C1,C2
+    17    1  ........1521449007         06031C472JAT2A                           TS   NA   CAP MC SMD 100V 4700pF J X7R 0603 0.86   B2   100%          1.000  PCE C9
+    18    1  ........1521449009         C0603C472J1RAC                           TR   NA   CAP MC SMD 100V 4700PF J X7R 0603 0.8    B2    0 %          1.000  PCE C9
+    19    1  ........1522458002         CC0603KRX7R0BB104                        T_   NA   CAP MC SMD 100V 0.1uF K X7R 0603 0.8     B4   100%          1.000  PCE C3
+    20    1  ........1522458004         GRM188R72A104KA35D                       TM   NA   CAP MC SMD 100V 0.1UF K X7R 0603 0.8                        5.000  PCE            C4,C5,C6,C7,C8
+    21    1  ........1522458004         GRM188R72A104KA35D                       TM   NA   CAP MC SMD 100V 0.1UF K X7R 0603 0.8     B4    0 %          1.000  PCE C3
+    22    1  ........1522458031         C0603X104K101T                           T_   NA   CAP MC SMD 100V 0.1UF K X7R 0603 0.85    B4    0 %          1.000  PCE C3
+    23    1  ........1522458032         0603B104K101CT                           TR   NA   CAP MC SMD 100V 0.1uF K X7R 0603 0.8     B4    0 %          1.000  PCE C3
+    24    1  ........203521050405       BZX84C5V6LT1G                            T_4B 1    DIO ZEN 0.25W 5.2-6V SOT-23-3P SMD       B5    0 %          3.000  PCE D1,D2,D7
+    25    1  ........203521050407       BZX84-C5V6                               TS   1    DIO ZEN 0.25W 5.2-6V SOT-23-3P SMD       B5   100%          3.000  PCE D1,D2,D7
+    26    1  ........203521050423       BZX84C5V6-E3-08                          TM52 1    DIO ZEN 0.3W 5.2-6V SOT-23-3P SMD        B5    0 %          3.000  PCE D1,D2,D7
+    27    1  ........242522500035       SN7002N H6327                            SM   1    FET 60V 0.2A 5ohm LL SOT-23-3P SMD 0.36W B6   100%          2.000  PCE T1,T2
+    28    1  ........242522500405       MMBF170LT1G                              T_   1    FET 60V 0.5A 5ohm LL SOT-23-3P SMD       B6    0 %          2.000  PCE T1,T2
+    29    1  ........2500267214         REF3030AIDBZR                            TS   1    IC VOL REF 3V 25mA 0.2% SOT-23-3P SMD                       1.000  PCE VR1
+    30    1  ........2540417179         TCN75-5.0MOA                             NN   1    IC TEMP SENSOR SOIC-8P SMD               KP   100%          1.000  PCE IC2
+    31    1  ........2542010579         TCN75AVOA713                             TS   1    IC TEMP SENSOR SOIC-8P SMD               KP    0 %          1.000  PCE IC2
+    32    1  ........2610517137         24LC64T-I/SN                             TM   1    IC EEPROM 8K*8 5mS SOIC-8P SMD           B1   100%          1.000  PCE IC3
+    33    1  ........2610517142         M24C64-WMN6TP                            T_   1    IC EEPROM 8K*8 10mS SO-8P SMD            B1    0 %          1.000  PCE IC3
+    34    1  ........2610531111         CAT24C64WI-GT3                           TP   1    IC EEPROM 8K*8 5mS SOIC-8P SMD           B1    0 %          1.000  PCE IC3
+    35    1  ........2610689337         PIC18F2520T-I/SOG                        TM   1    IC MCU FLASH 32K*8+256*8 SOIC-28P SMD                       1.000  PCE IC4
+    36    1  ........2994872200                                                  TR   NA   PWB D E1 FR-4 210.8*173.35*1.6                              1.000  PCE PWB
+    37    1  ........4090203200         TLF-204-19A.                             TD   NA   SOLDER PASTE SN96.5/AG3/CU0.5 TYPE4                         0.100  GRM

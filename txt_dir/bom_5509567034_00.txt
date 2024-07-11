@@ -1,0 +1,39 @@
+		   1			1  ........		0311059001			RC1206FR-07 10KL						TM	RES SMD 1/4W 10Kohm F 1206				RD	100	%		       1.000		PCE	R6
+		   2			1  ........		0311059008			CRCW120610K0FKEA						TM	RES SMD 1/4W 10Kohm F 1206				RD	 0	%		       1.000		PCE	R6
+		   3			1  ........		0311066001			RC1206FR-07 20KL						TM	RES SMD 1/4W 20Kohm F 1206				RC	 0	%		       1.000		PCE	R5
+		   4			1  ........		0311066003			RK73H2BTTD2002F						TM48	RES SMD 1/4W 20Kohm F 1206				RC	100	%		       1.000		PCE	R5
+		   5			1  ........		0311066008			CRCW120620K0FKEA						TM	RES SMD 1/4W 20Kohm F 1206				RC	 0	%		       1.000		PCE	R5
+		   6			1  ........		0311087001			RC1206FR-07 100KL						TM	RES SMD 1/4W 100Kohm F 1206				RF	 0	%		       3.000		PCE	R8,R11,R13
+		   7			1  ........		0311087003			RK73H2BTTD1003F						TM48	RES SMD 1/4W 100Kohm F 1206				RF	100	%		       3.000		PCE	R8,R11,R13
+		   8			1  ........		0311087008			CRCW1206100KFKEA						TM	RES SMD 1/4W 100Kohm F 1206				RF	 0	%		       3.000		PCE	R8,R11,R13
+		   9			1  ........		0311095003			RK73H2BTTD2213F						TM	RES SMD 1/4W 221Kohm F 1206				RH	100	%		       1.000		PCE	R14
+		  10			1  ........		0311095008			CRCW1206221KFKEA						TM	RES SMD 1/4W 221Kohm F 1206				RH	 0	%		       1.000		PCE	R14
+		  11			1  ........		0311108001			RC1206FR-07 1ML						TM	RES SMD 1/4W 1Mohm F 1206				RE	 0	%		       3.000		PCE	R7,R12,R17
+		  12			1  ........		0311108003			RK73H2BTTD1004F						TM	RES SMD 1/4W 1Mohm F 1206				RE	100	%		       3.000		PCE	R7,R12,R17
+		  13			1  ........		0311108008			CRCW12061M00FKEA						TM	RES SMD 1/4W 1Mohm F 1206				RE	 0	%		       3.000		PCE	R7,R12,R17
+		  14			1  ........		0311140001			RC1206FR-07 75KL						TM	RES SMD 1/4W 75Kohm F 1206				RB	 0	%		       1.000		PCE	R4
+		  15			1  ........		0311140003			RK73H2BTTD7502F						TM	RES SMD 1/4W 75Kohm F 1206				RB	100	%		       1.000		PCE	R4
+		  16			1  ........		0311140008			CRCW120675K0FKEA						TS	RES SMD 1/4W 75Kohm F 1206				RB	 0	%		       1.000		PCE	R4
+		  17			1  ........		0311230001			RC1206FR-07 200KL						SM	RES SMD 1/4W 200Kohm F 1206				RG	 0	%		       3.000		PCE	R9,R10,R16
+		  18			1  ........		0311230003			RK73H2BTTD2003F						TM48	RES SMD 1/4W 200Kohm F 1206				RG	100	%		       3.000		PCE	R9,R10,R16
+		  19			1  ........		0311230008			CRCW1206200KFKEA						TM	RES SMD 1/4W 200Kohm F 1206				RG	 0	%		       3.000		PCE	R9,R10,R16
+		  20			1  ........		0311356001			RC1206FR-07 24K3L						TM	RES SMD 1/4W 24.3Kohm F 1206				RJ	100	%		       1.000		PCE	R15
+		  21			1  ........		0311356008			CRCW120624K3FKEA						TS	RES SMD 1/4W 24.3Kohm F 1206				RJ	 0	%		       1.000		PCE	R15
+		  22			1  ........		0371210403			RK73H2ETTD3011F						TM	RES SMD 1/3W 3.01Kohm F 1210								       1.000		PCE	R3
+		  23			1  ........		1030150202			T491C105K050AT						TR	CAP TA 50V 1uF K SMD TP C 4.7				CA	100	%		       2.000		PCE	C1,C4
+		  24			1  ........		1030150203			TAJC105K050R						TM	CAP TA 50V 1uF K SMD TP C 4.7				CA	 0	%		       2.000		PCE	C1,C4
+		  25			1  ........		1030173102			T491B224K050AT						TR	CAP TA 50V 0.22uF K SMD TP B 2.7								       1.000		PCE	C3
+		  26			1  ........		1031174102			T491B334M050AT						TR	CAP TA 50V 0.33uF M SMD TP B 2.7								       1.000		PCE	C2
+		  27			1  ........		1521456207			12061C223JAT2A						TM	CAP MC SMD 100V 0.022uF J X7R 1206 1.5				CB	100	%		       1.000		PCE	C5
+		  28			1  ........		1521456209			C1206C223J1RAC						TR	CAP MC SMD 100V 0.022uF J X7R 1206 1.5				CB	 0	%		       1.000		PCE	C5
+		  29			1  ........		203852610005			MMSZ5242BT1G						T_	DIO ZEN 0.5W 11.4-12.6V SOD-123-2P SMD								       1.000		PCE	D5
+		  30			1  ........		204850750039			1N4148W-7-F						SM	DIO SW 0.3A 100V SOD-123-2P SMD				DA	100	%		       1.000		PCE	D6
+		  31			1  ........		204851000005			MMSD914T1G						TM	DIO SW 200mA 100V SOD-123-2P SMD				DA	 0	%		       1.000		PCE	D6
+		  32			1  ........		205791630031			S3M-E3/57T						TS	DIO SI 3A 1KV SMC-2P SMD				DB	100	%		       2.000		PCE	D1,D2
+		  33			1  ........		205791630031			S3M-E3/57T						TS	DIO SI 3A 1KV SMC-2P SMD				DB	100	%		       2.000		PCE	D3,D4
+		  34			1  ........		205791630039			S3M-13-F-73						TM	DIO SI 3A 1KV SMC-2P SMD				DB	 0	%		       2.000		PCE	D1,D2
+		  35			1  ........		205791630039			S3M-13-F-73						TM	DIO SI 3A 1KV SMC-2P SMD				DB	 0	%		       2.000		PCE	D3,D4
+		  36			1  ........		205820630039			S1M-13-F						SS	DIO SI 1A 1KV SMA-2P SMD								       1.000		PCE	D7
+		  37			1  ........		2520068314			TLC3704IDR						TS	IC COMPARATOR QUAD SOIC-14P SMD								       1.000		PCE	U1
+		  38			1  ........		2994884000									TG	PWB D E2 FR-4 58.04*38.35*1.6								       1.000		PCE
+		  39			1  ........		4090203200			TLF-204-19A.						TD	SOLDER PASTE SAC305 TYPE4 TLF-204-19A.								       0.200		GRM
